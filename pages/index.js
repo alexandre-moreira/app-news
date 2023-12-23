@@ -2,7 +2,7 @@ import React from 'react'
 
 function Home() {
   return (
-    <div>Teste</div>
+    <h2>Por trás de um dia difícil, há uma versão forte de você que sempre seguiu em frente.</h2>
   )
 }
 
